@@ -74,7 +74,7 @@ journeys = [
 ]
 ```
 
-##Output
+## Output
 The script creates .kml files with the following features:
 
 Transit/Driving Routes: Based on decoded Google Maps polylines
@@ -87,7 +87,7 @@ croydon_station_to_herne_hill_station.kml
 
 pbi_to_ewp_flight.kml
 
-##Notes
+## Notes
 Walking steps are ignored in transit routes for better map clarity.
 
 Coordinates are printed during geocoding to aid debugging or visualization.
